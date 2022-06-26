@@ -80,11 +80,12 @@ header{
 }
 
 .left1 h2{
-    font-size: 40px;
+    font-size: 38px;
     font-weight: 700;
     color: hsl(243, 87%, 12%);
     font-family: 'Raleway', sans-serif;
     margin-bottom: 30px;
+    line-height: 55px;
 }
 
 .left1 p{
