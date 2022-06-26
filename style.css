@@ -68,3 +68,31 @@ header{
     color: hsl(243, 87%, 12%);
     font-weight: 600;
 }
+
+.section1{
+    margin-top: 80px;
+    display: flex;
+}
+
+.left1{
+    float: left;
+    width: 100%;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.left1 h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: hsl(243, 87%, 12%);
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 30px;
+}
+
+.right1{
+    float: right;
+}
+
+.right1 img{
+    width: 90%;
+}
