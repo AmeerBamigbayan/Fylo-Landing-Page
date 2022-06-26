@@ -122,10 +122,12 @@ input::placeholder{
     border: none;
     background-color:  hsl(224, 93%, 58%);
     color: #fff;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 600;
     font-family: 'Raleway', sans-serif;
     margin-bottom: 20px;
+    margin-left: 10px;
+    box-shadow:  0px 5px 7px rgb(189, 189, 189);
 }
 
 
