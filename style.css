@@ -131,6 +131,10 @@ input::placeholder{
     box-shadow:  0px 5px 7px rgb(189, 189, 189);
 }
 
+.btn1:hover{
+    background-color: #6b9bff;
+}
+
 
 .right1 img{
     width: 100%;
