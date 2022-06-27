@@ -224,6 +224,39 @@ input::placeholder{
     margin-left: 25px;
 }
 
+.left2 .quotes .user{
+    display: flex;
+    
+}
+
+.left2 .quotes .user img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-left: 25px;
+}
+
+.left2 .quotes .user .user-info{
+    margin-top: 3px;
+}
+.left2 .quotes .user .user-info h4{
+    font-size: 11px;
+    font-weight: 900;
+    color: hsl(243, 87%, 12%);
+    font-family: 'Raleway', sans-serif;
+    margin-left: 10px;
+    margin-bottom: -13px;
+}
+
+.left2 .quotes .user .user-info p{
+    font-size: 9px;
+    font-weight: 600;
+    color: hsl(243, 87%, 12%);
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 10px;
+    
+}
+
 
 
 
