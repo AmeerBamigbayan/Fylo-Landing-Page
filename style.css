@@ -169,6 +169,15 @@ input::placeholder{
 }
 
 
+.left2 p{
+    font-size: 16px;
+    font-weight: 600;
+    color: hsl(243, 87%, 12%);
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 15px;
+}
+
+
 
 
 
