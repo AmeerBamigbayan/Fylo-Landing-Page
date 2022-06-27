@@ -151,6 +151,28 @@ input::placeholder{
     height: 100vh;
 }
 
+.left2{
+    float: left;
+    width: 100%;
+    margin-left: 70px;
+    margin-top: 90px;
+}
+
+.left2 h2{
+    font-size: 38px;
+    font-weight: 700;
+    color: hsl(243, 87%, 12%);
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 30px;
+    margin-top: 90px;
+    line-height: 55px;
+}
+
+
+
+
+
+
 
 @media (max-width: 768px){
     .section1{
