@@ -278,6 +278,17 @@ input::placeholder{
     margin-top: 90px;
 }
 
+.left3 h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 15px;
+    line-height: 55px;
+}
+
+
+
 @media (max-width: 768px){
     .section1{
         display: block;
