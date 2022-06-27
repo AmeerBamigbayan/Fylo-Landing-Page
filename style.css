@@ -264,7 +264,12 @@ input::placeholder{
     margin-top: 230px;
 }
 
-
+.section3{
+    display: flex;
+    background-color: #575989;
+    width: 100%;
+    height: 45vh;
+}
 
 
 
