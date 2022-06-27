@@ -271,7 +271,12 @@ input::placeholder{
     height: 45vh;
 }
 
-
+.left3{
+    float: left;
+    width: 100%;
+    margin-left: 70px;
+    margin-top: 90px;
+}
 
 @media (max-width: 768px){
     .section1{
