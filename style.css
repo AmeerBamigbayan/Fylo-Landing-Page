@@ -269,8 +269,11 @@ input::placeholder{
 
 
 @media (max-width: 768px){
-    .section1, .section2{
-       display: block;
+    .section1{
+        display: block;
+    }
+    .section2{
+         display: block;
     }
     .left1, .left2{
         display: block;
