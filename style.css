@@ -316,8 +316,8 @@ input::placeholder{
 }
 
 .btn2{
-    width: 27%;
-    height: 40px;
+    width: 30%;
+    height: 45px;
     border-radius: 2px;
     border: none;
     background-color:  hsl(224, 93%, 58%);
@@ -326,7 +326,7 @@ input::placeholder{
     font-weight: 600;
     font-family: 'Raleway', sans-serif;
 
-    box-shadow:  1px 1px 3px rgb(44, 44, 44);
+    box-shadow:  1px 1px 2px rgb(44, 44, 44);
 }
 
 .btn2:hover{
