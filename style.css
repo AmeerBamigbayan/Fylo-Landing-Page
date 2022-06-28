@@ -351,9 +351,15 @@ input::placeholder{
 .left4 .footer1{
     float: left;
     padding-right: 200px;
+    
 }
 
-.footer2 a{
+.left4 .footer2{
+    padding-top: 40px;
+    float: left;
+}
+
+.left4 .footer2 a{
     display: block;
 }
 
@@ -361,7 +367,7 @@ input::placeholder{
     float: right;
     width: 100%;
     margin-left: 70px;
-    margin-top: 90px;
+    margin-top: 130px;
 }
 
 .right4 .footer3{
@@ -369,7 +375,7 @@ input::placeholder{
     padding-right: 200px;
 }
 
-.footer4 a{
+.right4 .footer4 a{
     display: block;
 }
 @media (max-width: 768px){
