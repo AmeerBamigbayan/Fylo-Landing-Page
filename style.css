@@ -351,7 +351,10 @@ input::placeholder{
 .left4 .footer1{
     float: left;
     padding-right: 200px;
-    
+}
+
+.footer1 img{
+    color: #000;
 }
 
 .left4 .footer2{
