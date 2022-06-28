@@ -357,6 +357,21 @@ input::placeholder{
     display: block;
 }
 
+.right4{
+    float: right;
+    width: 100%;
+    margin-left: 70px;
+    margin-top: 90px;
+}
+
+.right4 .footer3{
+    float: right;
+    padding-right: 200px;
+}
+
+.footer4 a{
+    display: block;
+}
 @media (max-width: 768px){
     .section1{
         display: block;
