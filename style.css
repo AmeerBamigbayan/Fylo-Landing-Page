@@ -400,6 +400,13 @@ input::placeholder{
     padding-right: 200px;
 }
 
+.footer3 i{
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 14px 15px 14px 15px;
+    border-radius: 50%;
+    transform: scale(0.7);
+}
 .right4 .footer4 a{
     display: block;
     font-size: 16px;
