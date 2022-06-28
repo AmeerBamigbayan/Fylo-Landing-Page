@@ -357,6 +357,22 @@ input::placeholder{
     color: #000;
 }
 
+.footer1 p{
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 0px;
+    letter-spacing: 0.5px;
+}
+
+.footer1 p img{
+    width: 17px;
+    height: 15px;
+    margin-right: 20px;
+}
 .left4 .footer2{
     padding-top: 40px;
     float: left;
