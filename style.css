@@ -402,7 +402,14 @@ input::placeholder{
 
 .right4 .footer4 a{
     display: block;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 10px;
 }
+
+
 @media (max-width: 768px){
     .section1{
         display: block;
