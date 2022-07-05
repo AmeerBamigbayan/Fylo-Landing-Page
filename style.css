@@ -459,19 +459,25 @@ input::placeholder{
     .section1{
         display: flex;
         flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
     }
 
     .left1{
         display: block;
         margin-left: 0;
-      
+    }
+
+    .left1 h2{
+        font-size: 30px;
     }
     .right1{
         float: none;
         margin-top: 40px;
         width: 100%;
     }
-    
+
+
 
     .section2{
          display: block;
