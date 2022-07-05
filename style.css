@@ -427,6 +427,7 @@ input::placeholder{
 
 
 @media (max-width: 768px){
+    /*header start*/
     header{
         display: flex;
         margin-top: -50px;
@@ -452,22 +453,39 @@ input::placeholder{
         font-size: 13px;
       
     }
+        /*header end*/
+
+   /*section1 start*/
     .section1{
-        display: block;
+        display: flex;
+        flex-direction: column-reverse;
     }
+
+    .left1{
+        display: block;
+        margin-left: 0;
+      
+    }
+    .right1{
+        float: none;
+        margin-top: 40px;
+        width: 100%;
+    }
+    
+
     .section2{
          display: block;
          background: url(img/bg-curve-mobile.svg) no-repeat;
             background-size: cover; 
     }
-    .left1, .left2{
-        display: block;
-        margin-left: 0;
-    }
-    .right1, .right2{
+    .right2{
         float: none;
         margin-top: 40px;
         width: 100%;
+    }
+    .left2{
+        display: block;
+        margin-left: 0;
     }
      
     .quotes{
