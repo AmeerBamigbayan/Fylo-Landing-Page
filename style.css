@@ -473,6 +473,9 @@ input::placeholder{
 
     .left1 h2{
         font-size: 30px;
+        font-weight: 700;
+        margin-bottom: 10px;
+        line-height: 40px;
     }
     .right1{
         float: none;
