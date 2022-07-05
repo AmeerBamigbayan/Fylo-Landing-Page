@@ -510,10 +510,14 @@ input::placeholder{
     /*section1 end*/
 
 
+
+    /*section2 start*/
     .section2{
-         display: block;
-         background: url(img/bg-curve-mobile.svg) no-repeat;
-            background-size: cover; 
+         display: flex;
+        flex-direction: column-reverse;
+         background: url(img/bg-mobile.png) no-repeat center;
+         background-size: cover; 
+         height: 150vh;
     }
     .right2{
         float: none;
