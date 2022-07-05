@@ -487,6 +487,14 @@ input::placeholder{
         margin: 0 auto;
     }
 
+    .left1 .text{
+        display: flex;
+        flex-direction: column;
+    }
+
+    
+
+    /*section1 end*/
 
 
     .section2{
