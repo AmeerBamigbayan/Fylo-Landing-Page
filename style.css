@@ -427,6 +427,10 @@ input::placeholder{
 
 
 @media (max-width: 768px){
+    br{
+        display: none;
+     }
+
     /*header start*/
     header{
         display: flex;
@@ -512,8 +516,6 @@ input::placeholder{
         height: 45px;
     }
 
-
-
     /*section1 end*/
 
 
@@ -542,7 +544,6 @@ input::placeholder{
         margin: 0;
         padding:0 20px;
         margin-top: -50px;
-
     }
 
     .left2 h2{
@@ -558,11 +559,27 @@ input::placeholder{
         font-family: 'Open Sans', sans-serif;
         margin-bottom: 20px;
         text-align: left;
-
     }
-     br{
-        display: none;
-     }
+
+    .left2 .link{
+        margin: 0 auto;
+        width: 50%; 
+        margin-top: 10px;
+    }
+
+    .left2 .link a{
+        font-size: 13px;
+        font-weight: 500;
+        font-family: 'Open Sans', sans-serif;
+        margin-bottom: 10px;
+    }
+
+    .left2 .link img{
+        width: 15px;
+        height: 15px;
+        margin-right: 2px;
+    }
+
     .quotes{
         display: block;
         margin: 0 auto;
