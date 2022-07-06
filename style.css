@@ -580,8 +580,24 @@ input::placeholder{
         margin-right: 2px;
     }
 
-    .quotes{
-        display: block;
+    .left2 .quotes{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
         margin: 0 auto;
+        margin-bottom: 10px;
     }
+
+    .quotes img{
+        width: 100%;
+    }
+
+    .quotes p{
+        font-size: 16px;
+        font-weight: 500;
+        font-family: 'Open Sans', sans-serif;
+        margin-bottom: 10px;
+        text-align: left;
+    }
+
 }  
