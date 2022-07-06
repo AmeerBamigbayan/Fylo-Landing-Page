@@ -569,8 +569,10 @@ input::placeholder{
 
     .left2 .link{
         margin: 0 auto;
-        width: 50%; 
         margin-top: 10px;
+        border-bottom: 1px solid hsl(170, 45%, 43%);
+        width: 45%;
+        padding-bottom: 0;
     }
 
     .left2 .link a{
