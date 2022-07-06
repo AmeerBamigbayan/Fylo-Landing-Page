@@ -478,6 +478,12 @@ input::placeholder{
         margin-bottom: 10px;
         line-height: 40px;
     }
+
+    .left1 p{
+        font-size: 16px;
+        font-weight: 500;
+        margin-bottom: 20px;
+    }
     .right1{
         float: none;
         margin-top: 0px;
@@ -531,8 +537,12 @@ input::placeholder{
         margin: 0 auto;
     }
     .left2{
-        display: block;
+        display: flex;
+        flex-direction: column;
         margin: 0;
+        padding:0 20px;
+        margin-top: -50px;
+
     }
 
     .left2 h2{
@@ -547,6 +557,8 @@ input::placeholder{
         font-weight: 500;
         font-family: 'Open Sans', sans-serif;
         margin-bottom: 20px;
+        text-align: left;
+
     }
      br{
         display: none;
