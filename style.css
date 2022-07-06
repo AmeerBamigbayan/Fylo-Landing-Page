@@ -581,11 +581,8 @@ input::placeholder{
     }
 
     .left2 .quotes{
-        display: flex;
-        flex-direction: column;
-        width: 100%;
-        margin: 0 auto;
-        margin-bottom: 10px;
+        width: 90%;
+        margin: 20px auto 60px auto;
     }
 
     .quotes img{
