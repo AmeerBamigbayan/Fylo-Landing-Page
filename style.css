@@ -638,11 +638,19 @@ input::placeholder{
         margin-bottom: 10px;
         line-height: 40px;
         text-align: center;
+        margin-left: 0;
     }
 
     .right3{
         float: none;
         margin-top: 0px;
         width: 90%;
+        margin: 0 auto;
+    }
+
+    .right3 input{
+        width: 100%;
+        height: 45px;
+
     }
 }  
