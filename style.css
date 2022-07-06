@@ -54,7 +54,7 @@ header{
 
 .nav{
     display: flex;
-    justify-content: end;
+  
     list-style: none;
   
 }
@@ -620,7 +620,7 @@ input::placeholder{
         align-items: center;
         text-align: center;
         margin: 0 auto;
-        height: 40vh;
+        height: 50vh;
     }
 
     .left3{
@@ -690,7 +690,7 @@ input::placeholder{
 
     .left4 .footer1 p{
         margin-left: 0px;
-        width: 150%;
+        width: 170%;
         display: flex; 
     }
 
@@ -703,7 +703,7 @@ input::placeholder{
     .right4{
         float: none;
         margin-top: 0px;
-        width: 90%;
+        width: 100%;
         margin: 0 auto;
         display: flex;
         flex-direction: column-reverse;
@@ -713,7 +713,20 @@ input::placeholder{
         margin-top: 40px;
     }
 
-    .right4 .footer4{
-        padding-left: 40px;
+    .right4 .footer3{
+       float: none;
+       margin: 0 auto;
+       padding: 0;
+       display: flex;
     }
+
+    .right4 .footer3 i{
+        margin: 30px auto;
+    }
+
+    .right4 .footer4{
+        padding-left: 60px;
+    }
+
+
 }  
