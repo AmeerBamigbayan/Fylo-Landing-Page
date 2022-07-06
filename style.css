@@ -597,6 +597,7 @@ input::placeholder{
         font-family: 'Open Sans', sans-serif;
         margin-bottom: 10px;
         text-align: left;
+        letter-spacing: 0.5px;
     }
 
 }  
