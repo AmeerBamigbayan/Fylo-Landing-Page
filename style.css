@@ -624,11 +624,20 @@ input::placeholder{
     }
 
     .left3{
-        display: block;
+        display: flex;
+        flex-direction: column;
         margin-left: 0;
-        margin-top: 5px;
+        margin-top: 45px;
         margin-right: 0;
-        padding: 0 11px;
+        padding: 0 35px;
+    }
+
+    .left3 h2{
+        font-size: 22px;
+        font-weight: 700;
+        margin-bottom: 10px;
+        line-height: 40px;
+        text-align: center;
     }
 
     .right3{
