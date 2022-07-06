@@ -688,11 +688,10 @@ input::placeholder{
         margin-left: 60px;
     }
 
-    .left4 .footer1 .foot p{
+    .left4 .footer1 p{
         margin-left: 0px;
         width: 150%;
         display: flex; 
-
     }
 
     .left4 .footer2{
