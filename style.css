@@ -653,5 +653,9 @@ input::placeholder{
         height: 45px;
     }
 
-    .
+    .btn2{
+        width: 80%;
+        margin: 0;
+        height: 45px;
+    }
 }  
