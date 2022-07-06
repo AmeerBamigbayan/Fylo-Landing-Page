@@ -600,4 +600,8 @@ input::placeholder{
         letter-spacing: 0.5px;
     }
 
+    .left2 .quotes .user .user-info h4{
+        text-align: left;
+    }
+
 }  
