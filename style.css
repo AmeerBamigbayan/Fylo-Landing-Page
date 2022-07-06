@@ -189,6 +189,9 @@ input::placeholder{
 .left2 .link{
     display: flex;
     margin-top: 0;
+    border-bottom: 1px solid hsl(170, 45%, 43%);
+    width: 26%;
+    padding-bottom: 5px;
 }
 
 .left2 .link a{
@@ -431,6 +434,9 @@ input::placeholder{
         display: none;
      }
 
+     body{
+       
+     }
     /*header start*/
     header{
         display: flex;
@@ -526,7 +532,7 @@ input::placeholder{
         flex-direction: column-reverse;
          background: url(img/bg-mobile.png) no-repeat center;
          background-size: cover; 
-         height: 160vh;
+         height: 120vh;
          text-align: center;
     }
     .right2{
