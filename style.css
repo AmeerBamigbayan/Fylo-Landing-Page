@@ -679,6 +679,11 @@ input::placeholder{
         padding: 0 ;
     }
 
+    .left4 .footer1{
+        margin-left: 60px;
+        width: 100%;
+    }
+
     .right4{
         float: none;
         margin-top: 0px;
