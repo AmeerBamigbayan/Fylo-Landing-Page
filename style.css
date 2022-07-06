@@ -434,9 +434,6 @@ input::placeholder{
         display: none;
      }
 
-     body{
-       
-     }
     /*header start*/
     header{
         display: flex;
@@ -612,4 +609,31 @@ input::placeholder{
         text-align: left;
     }
 
+    /*section2 end*/
+
+
+
+    /*section3 start*/
+    .section3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin: 0 auto;
+        height: 70vh;
+    }
+
+    .left3{
+        display: block;
+        margin-left: 0;
+        margin-top: 5px;
+        margin-right: 0;
+        padding: 0 11px;
+    }
+
+    .right3{
+        float: none;
+        margin-top: 0px;
+        width: 90%;
+    }
 }  
