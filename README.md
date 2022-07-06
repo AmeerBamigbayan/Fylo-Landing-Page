@@ -3,4 +3,5 @@
  
    
 ### Screenshot
-![screencapture-file-C-Users-Ameer-Documents-Code-Workspace-Fylo-Landing-Page-index-html-2022-07-06-00_54_32](https://user-images.githubusercontent.com/76779409/177435351-9080598b-7a01-4309-8781-576789c62a19.png)
+
+![screencapture-127-0-0-1-5500-Fylo-Landing-Page-index-html-2022-07-06-18_29_00](https://user-images.githubusercontent.com/76779409/177609206-1d7f6c28-da77-4765-8c6f-4bdf797fcbf4.png)
