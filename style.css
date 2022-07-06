@@ -517,12 +517,17 @@ input::placeholder{
         flex-direction: column-reverse;
          background: url(img/bg-mobile.png) no-repeat center;
          background-size: cover; 
-         height: 150vh;
+         height: 160vh;
+         text-align: center;
     }
     .right2{
         float: none;
-        margin-top: 40px;
+        margin: 0 auto;
+        width: 90%;
+    }
+    .right2 img{
         width: 100%;
+        margin: 0 auto;
     }
     .left2{
         display: block;
