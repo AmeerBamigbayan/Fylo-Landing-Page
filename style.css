@@ -705,5 +705,15 @@ input::placeholder{
         margin-top: 0px;
         width: 90%;
         margin: 0 auto;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .right4{
+        margin-top: 40px;
+    }
+
+    .right4 .footer4{
+        padding-left: 40px;
     }
 }  
