@@ -400,6 +400,10 @@ input::placeholder{
     margin-bottom: 10px;
 }
 
+.left4 .footer2 a:hover{
+    color: #6b9bff;
+}
+
 .right4{
     float: right;
     width: 100%;
@@ -429,6 +433,9 @@ input::placeholder{
     margin-bottom: 10px;
 }
 
+.right4 .footer4 a:hover{
+    color: #6b9bff;
+}
 
 @media (max-width: 768px){
     br{
