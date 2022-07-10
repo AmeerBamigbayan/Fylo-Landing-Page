@@ -138,6 +138,7 @@ input::placeholder{
     margin-bottom: 20px;
     margin-left: 10px;
     box-shadow:  0px 5px 7px rgb(189, 189, 189);
+    cursor: pointer;
 }
 
 .btn1:hover{
@@ -337,7 +338,7 @@ input::placeholder{
     font-size: 13px;
     font-weight: 600;
     font-family: 'Raleway', sans-serif;
-
+    cursor: pointer;
     box-shadow:  1px 1px 2px rgb(44, 44, 44);
 }
 
